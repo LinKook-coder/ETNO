@@ -1,4 +1,4 @@
-*{
+**{
 		margin: 36px;
 		padding: 0;
 		font-family: sans-serif;
@@ -90,11 +90,7 @@ ul#menuPrincipal a#current{
       	font-family: "Verdana";
       	font-size: 25px;
       }
-      footer{
-      	background-color: #81DAF5;
-      	height: 200px;
-
-      }
+      9
       .carousel-inner{
       	height: 150px;
       }
