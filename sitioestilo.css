@@ -105,3 +105,8 @@ ul#menuPrincipal a#current{
     	background-color: #fcacf9;
     	border-radius: 10px;
     }
+
+footer{
+	background-color: #81DAF5;
+      	height: 200px;
+}
